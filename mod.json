@@ -1,0 +1,20 @@
+{
+  "Name": "Mod",
+  "Author": "https://youtube.com/justameanie",
+  "Description": "A Mod.",
+  "ModVersion": "1.0",
+  "GameVersion": "1.15x",
+  "ThumbnailPath": "Thumbnail.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Fun",
+    "Destructible"
+  ],
+  "Scripts": [
+    "Script.cs",
+    "CategoryBuilder.cs"
+  ],
+  "Active": false,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2406000491"
+}
